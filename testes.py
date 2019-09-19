@@ -3,7 +3,7 @@ import sys
 
 erroInicializar = False
 
-
+dsadaafda
 jogo = jogovelha.inicializar()
 
 if len(jogo) != 3:
